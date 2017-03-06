@@ -2,4 +2,5 @@
 
 Conclusion
 
-And they live happily ever after.
+In the end, they live happily ever after.
+
