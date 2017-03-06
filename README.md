@@ -1,8 +1,5 @@
-some text
-
 # minigit
 
+Introduction:
 
-more annoying text
-
-hunky dory
+this is a test to show the use of git on real porject.
